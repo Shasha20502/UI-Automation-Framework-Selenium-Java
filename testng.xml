@@ -5,6 +5,7 @@
     <test name="Google Home Test">
         <classes>
             <class name="com.automation.tests.HomePageTest"/>
+            <class name="com.automation.tests.AmazonSearchTest"/>
         </classes>
     </test>
 </suite>
